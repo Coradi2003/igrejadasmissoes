@@ -63,9 +63,21 @@ O site estará disponível em `http://localhost:3000`
 ## 🌐 Deploy
 
 ### Vercel (Recomendado)
+
+O projeto está 100% pronto para deploy na Vercel!
+
+**Deploy Rápido:**
 1. Faça push do código para GitHub
-2. Conecte o repositório na Vercel
+2. Conecte o repositório na [Vercel](https://vercel.com)
 3. Deploy automático!
+
+**Ou via CLI:**
+```bash
+npm i -g vercel
+vercel
+```
+
+📖 **Guia completo de deploy**: Veja [README_DEPLOY.md](./README_DEPLOY.md)
 
 ### Outras plataformas
 - Netlify
